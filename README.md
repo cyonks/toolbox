@@ -2,11 +2,11 @@
 
 ## Sublime Text
 
-- SublimeText配置
+- [SublimeText配置][st-config]
 
-- SublimeText快捷键
+- [SublimeText快捷键][st-shortcut]
 
-- SublimeText插件
+- [SublimeText插件][st-plugin]
 
 
 ## Vim
@@ -17,3 +17,4 @@
 
 - Vim插件
 
+[st-shortcut]: https://github.com/cyonks/toolbox/blob/master/sublime-text/shortcut-keys.md "sublime text shortcut keys"
