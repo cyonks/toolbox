@@ -84,5 +84,5 @@ Note:Windows系统
 ---
 
 # Reference
-- [http://www.imooc.com/article/2070](http://www.imooc.com/article/2070)
-- [http://www.daqianduan.com/4820.html](http://www.daqianduan.com/4820.html)
+- <http://www.imooc.com/article/2070>
+- <http://www.daqianduan.com/4820.html>
