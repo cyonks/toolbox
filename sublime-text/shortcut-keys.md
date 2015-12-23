@@ -26,6 +26,7 @@ Note:Windows系统
 - `ctrl+shift+Enter` 在上一行插入新行
 - `ctrl+K+0` 展开所有折叠代码。
 - `ctrl+←/→` 向左(右)单位性地移动光标，快速移动光标。
+- `ctrl+shift+j` 快速选择同缩进的内容
 
 ---
 
@@ -63,13 +64,23 @@ Note:Windows系统
 
 ---
 
-## 其他常用
-- `ctrl+shift+p` 打开命令框,插件管理等。
-- `Esc` 退出光标多行选择，退出搜索框，命令框等。
-- `shift+ctrl+T` 快速恢复已关闭文件
+## 窗口
+
+- `ctrl+shift+n` 创建一个新窗口
+- `ctrl+n` 当前窗口创建一个新标签
+- `ctrl+w` 关闭当前标签
+- `shift+ctrl+T` 快速恢复刚关闭标签
 - `ctrl+Tab` 切换当前窗口的标签页。
 - `ctrl+PageDown` 向左切换当前窗口的标签页。
 - `ctrl+PageUp` 向右切换当前窗口的标签页。
+- `ctrl+K+B` 开启/关闭侧边栏。
+
+---
+
+## 屏幕
+
+- `F11` 全屏模式
+- `shift+F11` 免打扰模式
 - `Alt+shift+1` 窗口分屏，恢复默认1屏（非小键盘的数字）
 - `Alt+shift+2` 左右分屏-2列
 - `Alt+shift+3` 左右分屏-3列
@@ -77,12 +88,15 @@ Note:Windows系统
 - `Alt+shift+5` 等分4屏
 - `Alt+shift+8` 垂直分屏-2屏
 - `Alt+shift+9` 垂直分屏-3屏
-- `ctrl+K+B` 开启/关闭侧边栏。
-- `F11` 全屏模式
-- `shift+F11` 免打扰模式
+
+## 其他常用
+
+- `ctrl+shift+p` 打开命令框,插件管理等。
+- `Esc` 退出光标多行选择，退出搜索框，命令框等。
 
 ---
 
 # Reference
 - <http://www.imooc.com/article/2070>
 - <http://www.daqianduan.com/4820.html>
+- <http://www.cnblogs.com/figure9/p/sublime-text-complete-guide.html>
