@@ -100,3 +100,9 @@ Note:Windows系统
 - <http://www.imooc.com/article/2070>
 - <http://www.daqianduan.com/4820.html>
 - <http://www.cnblogs.com/figure9/p/sublime-text-complete-guide.html>
+- <http://www.hongkiat.com/blog/sublime-code-snippets/>
+- <https://scotch.io/bar-talk/sublime-text-keyboard-shortcuts>
+- <http://www.sublimetext.com/docs/3/>
+- <http://www.imooc.com/article/1338>
+- <http://www.imooc.com/article/2931>
+- <http://www.imooc.com/article/1243>
