@@ -15,3 +15,4 @@
 
 - ConvertToUTF8
 
+- Sublimelinter
