@@ -13,7 +13,7 @@
 
 - Vim配置
 
-- Vim快捷键
+- [Vim快捷键][vim-shortcut]
 
 - Vim插件
 
@@ -21,3 +21,4 @@
 [st-shortcut]: https://github.com/cyonks/toolbox/blob/master/sublime-text/shortcut-keys.md "sublime text shortcut keys"
 [st-config]: https://github.com/cyonks/toolbox/blob/master/sublime-text/settings.md "sublime text shortcut keys"
 [st-plugin]: https://github.com/cyonks/toolbox/blob/master/sublime-text/plugins.md "sublime text shortcut keys"
+[vim-shortcut]: https://github.com/cyonks/toolbox/blob/master/vim/short-keys.md "vim shortcut keys"
